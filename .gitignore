@@ -14,8 +14,6 @@
 *.vrb
 *.pdf
 
-!figs/*.pdf
-
 # HEVEA GENERATED FILES #######################################################
 
 *.haux
